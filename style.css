@@ -1,0 +1,658 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.head{
+    width: 100%;
+}
+.top_header{
+    background-color: #F6623E;
+    width: 100%;
+}
+.top_header p{
+    font-family: 'Jost', sans-serif;
+    display: inline-block;
+    padding: 10px;
+    color: white;
+    font-size: 12px;
+    width: 40%;
+    margin-left: 50px;
+}
+.top_header #p1{
+    font-family: 'Jost', sans-serif;
+    text-align: end;
+}
+.usa{
+    width: 20px;
+    height: 16px;
+    padding-top: 4px;
+    left: 1725px;
+}
+select{
+    font-family: 'Jost', sans-serif;
+    background-color: #F6623E;
+    color: white;
+    width: 42px;
+    height: 20px;
+    border: none;
+    font-size: 12px;
+}
+.head2{
+    background-color: #fff;
+    width: 100%;
+    height: 70%;
+}
+.logo{
+    width: 198px;
+    height: 47px;
+    margin-left: 50px;
+}
+.nav_bar{
+    display: inline-block;
+    width: 60%;
+    height: 24px;
+    margin-left: 100px;
+    padding-bottom: 50px;
+}
+.nav_bar a{
+    font-family: 'Jost', sans-serif;
+    text-decoration: none;
+    font-size: 16px;
+    padding-right: 20px;
+}
+.nav_bar a:hover{
+    cursor: pointer;
+    color: #F6623E;
+}
+a:active{
+    color: #F6623E;
+}
+.head2 button{
+    background-color: #fff;
+    border: none;
+    width: 22px;
+    height: 22px;
+}
+.badge{
+    background-color: #F6623E;
+    color: #fff;
+    border-radius: 3px;
+}
+.main{
+    width: 100%;
+}
+.main1{
+    width: 100%;
+    height: 641px;
+    background-image: url("images/1\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 170px;
+    padding-left: 770px;
+}
+.main1 h3{
+    font-family: 'Jost', sans-serif;
+    color: #F6623E;
+    padding-bottom: 10px;
+}
+.main1 h2{
+    font-family: 'Jost', sans-serif;
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+.main1 p{
+    font-family: 'Jost', sans-serif;
+    padding-bottom: 20px;
+}
+.main1 button{
+    font-family: 'Jost', sans-serif;
+    background-color: #F6623E;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+.main1 button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.main2{
+    background-color: white;
+    width: 100%;
+}
+.main2 h2{
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+.main2 .rect{
+    width: 127px;
+    height: 4px;
+    margin-left: 625px;
+    margin-bottom: 10px;
+}
+.p1{
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+}
+.deals{
+    display: inline-block;
+    padding-top: 30px;
+}
+.deals p{
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+#multi p{
+    font-family: 'Jost', sans-serif;
+    padding-left: 22px;
+}
+#multi img{
+    width: 312.81px;
+    height: 320px;
+    background-image: url("images/Rectangle\ 8\(3\).png");
+    background-size: 397px 410px;
+    padding: 20px;
+    margin-right: 15px;
+    margin-left: 50px;
+}
+#value img{
+    width: 312.81px;
+    height: 320px;
+    margin-right: 15px;
+}
+#immunity img{
+    width: 312.81px;
+    height: 320px;
+    background-image: url("images/Rectangle\ 8\(3\).png");
+    background-size: 397px 410px;
+    padding: 20px;
+    margin-right: 15px;
+}
+#iron img{
+    width: 312.81px;
+    height: 320px;
+}
+.services{
+    background-color: #fff;
+    padding-top: 100px;
+    margin-left: 50px;
+}
+.services1{
+    display: inline-block;
+    margin-left: 90px;
+}
+.services1 img{
+    margin-left: 120px;
+}
+.services1 p{
+    font-family: 'Jost', sans-serif;
+    width: 284px;
+    text-align: center;
+}
+.parent{
+    position: relative;
+    top: 0;
+    right: 0;
+}
+.image1{
+    position: relative;
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+.image2{
+    position: absolute;
+    top: 30px;
+    right: 85px;
+}
+.services h5{
+    font-family: 'Jost', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.main3{
+    width: 100%;
+    margin-top: 80px;
+}
+.main3_txt{
+    font-family: 'Jost', sans-serif;
+    position: relative;
+    top: 0;
+    left: 0;
+    background-color: #fff8f6;
+    width: 40%;
+    height: 678px;
+    padding-top: 150px;
+    padding-left: 30px;
+}
+.main3_txt h2{
+    font-size: 40px;
+    width: 70%;
+    height: 144px;
+}
+.main3_txt p{
+    padding-bottom: 15px;
+    width: 70%;
+    height: 50px;
+}
+.main3_txt button{
+    font-family: 'Jost', sans-serif;
+    background-color: #fff8f6;
+    border: 2px solid #F6623E;
+    padding: 15px;
+}
+.main3_txt button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    background-color: #F6623E;
+    border-radius: 20px;
+}
+.main3_img{
+    position: absolute;
+    top: 1620px;
+    right: 0px;
+    margin-left: 26px;
+}
+.main3_img1{
+    position: absolute;
+    width: 432px;
+    height: 329px;
+}
+.main3_img2{
+    width: 432px;
+    height: 319px;
+}
+.main3_img3{
+    width: 490px;
+    height: 678px;
+    margin-left: 20px;
+    margin-right:  30px;
+}
+.products{
+    background-color: #fff;
+    width: 100%;
+}
+.products h2{
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    font-size: 36px;
+}
+.products1{
+    display: inline-block;
+}
+.products1 p{
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+    font-size: 14px;
+}
+.prod{
+    font-weight: bold;
+}
+.p2{
+    font-family: 'Jost', sans-serif;
+    text-decoration: line-through;
+}
+.p3{
+    font-family: 'Jost', sans-serif;
+    color:#F6623E;
+}
+#multi-vitamin img{
+    width: 312.81px;
+    height: 320px;
+    margin-left: 50px;
+    margin-right: 15px;
+}
+#vitamin-c img{
+    width: 312.81px;
+    height: 320px;
+    background-image: url("images/Rectangle\ 8\(3\).png");
+    background-size: 397px 410px;
+    padding: 20px;
+    margin-right: 15px;
+}
+#multi-vit2 img{
+    width: 312.81px;
+    height: 320px;
+    background-image: url("images/Rectangle\ 8\(3\).png");
+    background-size: 397px 410px;
+    padding: 20px;
+    margin-right: 15px;
+}
+#apple-cider img{
+    width: 312.81px;
+    height: 320px;
+    margin-right: 15px;
+}
+.products button{
+    font-family: 'Jost', sans-serif;
+    width: 254px;
+    background-color: #fff;
+    border: 2px solid #F6623E;
+    padding: 15px;
+    margin-top: 30px;
+    margin-left: 570px;
+}
+.products button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    background-color: #F6623E;
+    border-radius: 20px;
+}
+.main4{
+    width: 100%;
+    height: 885px;
+    background-color: #fef0e7;
+    margin-top: 55px; 
+    padding-left: 150px;
+    padding-top: 90px;
+}
+.main4_txt{
+    position: relative;
+    top: 0;
+    left: 0;
+    margin-top: 110px;
+}
+.main4_txt h5{
+    font-family: 'Jost', sans-serif;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.main4_txt h4{
+    font-family: 'Jost', sans-serif;
+    font-size: 30px;
+    margin-bottom: 10px;
+    color:#F6623E;
+}
+.p4{
+    font-family: 'Jost', sans-serif;
+    width: 620px;
+    font-size: 26px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.name{
+    font-family: 'Jost', sans-serif;
+    color: #F6623E;
+    margin-bottom: 20px;
+}
+.btn button{
+    font-family: 'Jost', sans-serif;
+    padding: 10px;
+    background-color: #fef0e7;
+}
+.left{
+    border: 2px solid black;
+}
+.right{
+    margin-left: 10px;
+    border: 2px solid #F6623E;
+}
+.btn button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.main4_img{
+    position: absolute;
+    top: 3120px;
+    width: 534px;
+    height: 539px;
+    margin-left: 650px;
+}
+.main5{
+    background-color: #fff;
+    width: 100%;
+    margin-top: 70px;
+}
+.main5 h2{
+    font-family: 'Jost', sans-serif;
+    text-align: center; 
+    margin-bottom: 30px;
+    font-size: 36px;
+}
+.shop{
+    font-family: 'Jost', sans-serif;
+    display: inline-block;
+}
+#pre-order img{
+    width: 312.81px;
+    height: 320px;
+    background-image: url("images/Rectangle\ 8\(3\).png");
+    background-size: 397px 410px;
+    padding: 20px;
+    margin-right: 15px;
+    margin-left: 50px;
+}
+#detox img{
+    width: 312.81px;
+    height: 320px;
+    background-image: url("images/Rectangle\ 8\(3\).png");
+    background-size: 397px 410px;
+    padding: 20px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+#probiotics img{
+    width: 312.81px;
+    height: 320px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+#apple-cider1 img{
+    width: 312.81px;
+    height: 320px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+.main5 p{
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 7px;
+}
+#p-order{
+    width: 300px;
+    margin-left: 55px;
+}
+.main5 button{
+    font-family: 'Jost', sans-serif;
+    width: 254px;
+    background-color: #fff;
+    border: 2px solid #F6623E;
+    padding: 15px;
+    margin-top: 30px;
+    margin-left: 570px;
+}
+.main5 button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    background-color: #F6623E;
+    border-radius: 20px;
+}
+.main6{
+    width: 100%;
+    background-color: #fff;
+}
+.main6 h2{
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    font-size: 36px;
+}
+.news{
+    display: inline-block;
+}
+#news1{
+    margin-left: 50px;
+}
+.news img{
+    width: 422px;
+    height: 422px;
+    margin-right: 15px;
+}
+.date{
+    font-family: 'Jost', sans-serif;
+    font-size: 12px;
+    color: #F6623E;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.news h6{
+    font-family: 'Jost', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.main6_txt{
+    font-family: 'Jost', sans-serif;
+    width: 389px;
+    text-align: center;
+}
+.news button{
+    font-family: 'Jost', sans-serif;
+    background-color: #F6623E;
+    color:#fff;
+    padding: 10px;
+    border: none;
+    margin-left: 150px;
+    margin-top: 15px;
+}
+.news button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.main7{
+    background-color: #fff;
+    width: 100%;
+}
+.main7 h2{
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+    font-size: 36px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+.main7 img{
+    display: inline-block;
+    width: 218px;
+    height: 218px;
+    margin-left: 9px;
+}
+.foot{
+    width: 100%;
+    height: 529px;
+    background-color: #fff8f6;
+    margin-top: 90px;
+    position: relative;
+}
+.footer{
+    display: inline-block;
+    margin-bottom: 170px;
+}
+#foot1 img{
+    position: absolute;
+    width: 138px;
+    height: 33px;
+    left: 190px;
+    top: 80px;
+}
+#foot1 p{
+    font-family: 'Jost', sans-serif;
+    position: absolute;
+    left: 90px;
+    top: 130px;
+    text-align: center;
+    width: 326px; 
+}
+#foot2 h5{
+    font-family: 'Jost', sans-serif;
+    position: absolute;
+    top: 80px;
+    left: 615px;
+    font-size: 26px;
+}
+#foot2 p{
+    font-family: 'Jost', sans-serif;
+    position: absolute;
+    top: 130px;
+    left: 550px;
+    text-align: center;
+}
+.address{
+    position: absolute;
+    top: 200px;
+    left: 435px;
+}
+#foot2 button{
+    font-family: 'Jost', sans-serif;
+    position: absolute;
+    top: 2px;
+    left: 500px;
+    border: none;
+    background-color: #fff8f6;
+    color: #F6623E;
+}
+#foot2 button:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+#email{
+    position: absolute;
+    top: 235px;
+    left: 435px;
+    width: 570px;
+    height: 0px;
+    border: 2px solid #000000;
+}
+#foot3 h5{
+    font-family: 'Jost', sans-serif;
+    position: absolute;
+    top: 80px;
+    left: 1070px;
+    font-size: 20px;
+}
+#foot3 p{
+    font-family: 'Jost', sans-serif;
+    position: absolute;
+    top: 130px;
+    left: 1070px;
+}
+.foot .new1{
+    opacity: 0.2;
+    margin-top: 250px;
+    border: 1px solid #828181;
+    margin-left: 121px;
+    margin-right: 121px;
+}
+.foot4{
+    /* position: absolute; */
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.foot4 .fa{
+   color: #828181;
+   padding: 10px;
+}
+.fa:hover{
+    transform: scale(1.1);
+    color: #F6623E;
+}
+.foot4 p{
+    font-family: 'Jost', sans-serif;
+    width: 287px;
+    margin-left: 140px;
+}
+.foot4 span{
+    color: #F6623E;
+}
